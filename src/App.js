@@ -21,19 +21,19 @@ function App() {
     {
       id: 2,
       title: "My 2nd Post",
-      datetime: "Oct 01, 2022 11:17:36 AM",
+      datetime: "Oct 02, 2022 11:17:36 AM",
       body: "Yeh dusra blog hai!"
     },
     {
       id: 3,
       title: "My 3rd Post",
-      datetime: "Oct 01, 2022 11:17:36 AM",
+      datetime: "Oct 03, 2022 11:17:36 AM",
       body: "Hello People, this is my third blog."
     },
     {
       id: 4,
       title: "My 4th Post",
-      datetime: "Oct 01, 2022 11:17:36 AM",
+      datetime: "Oct 04, 2022 11:17:36 AM",
       body: "तुनक तुनक तूँ, तुनक तुनक तूँ, तुनक तुनक तूँ, दा दा दा|"
     }
   ])
